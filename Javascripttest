@@ -1,0 +1,41 @@
+//function isDev
+function isDev(){
+  
+const sentence = 'BTMNMB","NBMTMN","DSBTMT","BMBBMM","SNNNNTB","TNBNTM';
+  
+
+const programador = 'Arturo';
+const word = 'NNNN';
+const word2 = 'BBBB';
+const word3 = 'TTTT';
+const word4 = 'MMMM';
+console.log(`El humano "${programador}" ${sentence.includes(word3)||(word)||(word4)||(word2) ? 'es' : 'no es'}  desarrollador`);
+// Los identificadores se buscarán
+              }
+
+
+
+function mostrarMensaje1() { 
+
+
+var resultado = true;
+
+
+
+
+
+
+
+
+alert ('El resultado del proyecto para saber si es un developer o no. Mostrado En tipo de dato booleano es: ' + resultado.toString());
+  
+
+}
+
+
+
+
+
+
+console.log(isDev());
+console.log(mostrarMensaje1());
